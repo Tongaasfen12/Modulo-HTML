@@ -1,0 +1,16 @@
+#Texto1{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: aliceblue;
+position: relative; 
+top: 1px; 
+left: 300px; 
+margin: 2px; 
+width: 600px; 
+height: auto; 
+}
+
+.Fondo {
+    background-image: url(1234.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
